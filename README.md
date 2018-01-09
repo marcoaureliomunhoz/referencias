@@ -1,6 +1,6 @@
 # Referências 
 
-<table width="100%"><tr><td bgcolor="LightGray"><strong>
+<table width="100%"><tr width="100%"><td width="100%" bgcolor="LightGray"><strong>
 Web
 </strong></td></tr></table><br>
 <table width="100%">
