@@ -11,6 +11,6 @@ locaweb - blog | blog.locaweb.com.br  | Trata dos mais variados assuntos relacio
 
 > **Livros**
 
-Nome | Autoria | Publicação | Editora 
---- | --- | --- | --- 
-Google Android - 2ª Edição | Ricardo R. Lecheta | 2010/2011 | novatec 
+Nome | Autoria | Publicação | Editora  
+--- | --- | --- | ---  
+Google Android - 2ª Edição | Ricardo R. Lecheta | 2010-2011 | novatec 
