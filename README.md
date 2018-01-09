@@ -4,10 +4,10 @@
 
 Nome | Endereço | Sobre 
 :--- | :----- | :----- 
-Lambda3 - Blog | lambda3.com.br/blog | Trata dos mais variados assuntos relacionados a desenvolvimento de software. 
-Lambda3 - Podcast | lambda3.com.br/lambda3-podcast | Trata dos mais variados assuntos relacionados a desenvolvimento de software. 
-InfoQ | infoq.com/br | Trata dos mais variados assuntos relacionados a desenvolvimento de software. 
-locaweb - blog | blog.locaweb.com.br  | Trata dos mais variados assuntos relacionados a desenvolvimento de software. 
+Lambda3 - Blog | [lambda3.com.br/blog](lambda3.com.br/blog) | Trata dos mais variados assuntos relacionados a desenvolvimento de software. 
+Lambda3 - Podcast | [lambda3.com.br/lambda3-podcast](lambda3.com.br/lambda3-podcast) | Trata dos mais variados assuntos relacionados a desenvolvimento de software. 
+InfoQ | [infoq.com/br](infoq.com/br) | Trata dos mais variados assuntos relacionados a desenvolvimento de software. 
+locaweb - blog | [blog.locaweb.com.br](blog.locaweb.com.br)  | Trata dos mais variados assuntos relacionados a desenvolvimento de software. 
 
 > **Livros**
 
