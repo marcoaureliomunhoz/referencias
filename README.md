@@ -1,17 +1,9 @@
 # Referências 
 
-<section
- style="padding: 10px;
-        font-weight: bold;
-        background: rgba(200,200,200,0.3);"
->
+<table width="100%"><tr><td bgcolor="LightGray"><strong>
 Web
-</section>
-
-<table
- style="margin-bottom: 20px;
-        border: 1px solid rgba(200,200,200,0.3);"
->
+</strong></td></tr></table><br>
+<table width="100%">
     <tr>
         <th width="20%" align="left">Nome</th>
         <th width="40%" align="left">Endereço</th>
@@ -61,20 +53,12 @@ Web
             Trata dos mais variados assuntos relacionados a desenvolvimento de software.
         </td>
     </tr>
-</table>
+</table><br>
 
-<section
- style="padding: 10px;
-        font-weight: bold;
-        background: rgba(200,200,200,0.3);"
->
+<table width="100%"><tr><td bgcolor="LightGray"><strong>
 Livros
-</section>
-
-<table
- style="margin-bottom: 20px;
-        border: 1px solid rgba(200,200,200,0.3);"
->
+</strong></td></tr></table><br>
+<table width="100%">
     <tr>
         <th width="30%" align="left">Nome</th>
         <th width="30%" align="left">Autoria</th>
