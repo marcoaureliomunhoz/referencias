@@ -1,12 +1,21 @@
 # Referências 
 
-<section>Web</section>
+<section
+ style="padding: 10px;
+        font-weight: bold;
+        background: rgba(200,200,200,0.3);"
+>
+Web
+</section>
 
-<table>
+<table
+ style="margin-bottom: 20px;
+        border: 1px solid rgba(200,200,200,0.3);"
+>
     <tr>
-        <th width="20%">Nome</th>
-        <th width="40%">Endereço</th>
-        <th width="40%">Sobre</th>
+        <th width="20%" align="left">Nome</th>
+        <th width="40%" align="left">Endereço</th>
+        <th width="40%" align="left">Sobre</th>
     </tr>
     <tr>
         <td>Lambda3 - Blog</td>
@@ -54,14 +63,23 @@
     </tr>
 </table>
 
-<section>Livros</section>
+<section
+ style="padding: 10px;
+        font-weight: bold;
+        background: rgba(200,200,200,0.3);"
+>
+Livros
+</section>
 
-<table>
+<table
+ style="margin-bottom: 20px;
+        border: 1px solid rgba(200,200,200,0.3);"
+>
     <tr>
-        <th width="30%">Nome</th>
-        <th width="30%">Autoria</th>
-        <th width="20%">Publicação</th>
-        <th width="20%">Editora</th>
+        <th width="30%" align="left">Nome</th>
+        <th width="30%" align="left">Autoria</th>
+        <th width="20%" align="left">Publicação</th>
+        <th width="20%" align="left">Editora</th>
     </tr>
     <tr>
         <td>Google Android - 2ª Edição</td>
@@ -70,19 +88,3 @@
         <td>novatec</td>  
     </tr>
 </table>
-
-
-    section {
-        padding: 10px;
-        font-weight: bold;
-        background: rgba(200,200,200,0.3);
-    }
-
-    table {
-        margin-bottom: 20px;
-        border: 1px solid rgba(200,200,200,0.3);
-    }
-    
-    th {
-        text-align: left;
-    }
