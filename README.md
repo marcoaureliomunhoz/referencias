@@ -71,7 +71,7 @@
     </tr>
 </table>
 
-<style>
+
     section {
         padding: 10px;
         font-weight: bold;
@@ -86,4 +86,3 @@
     th {
         text-align: left;
     }
-</style>
