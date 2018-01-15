@@ -11,7 +11,7 @@ Nome | Sobre
 [InfoQ](https://www.infoq.com/br) | Trata dos mais variados assuntos relacionados a desenvolvimento de software e TI. 
 [locaweb/blog](http://blog.locaweb.com.br)  | Trata dos mais variados assuntos relacionados a desenvolvimento de software e TI. 
 [Canal.NET](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg) | Trata principalmente de tecnologias Microsoft (.NET, C#, ASP.NET, Visual Studio, SQL Server, Azure, ...). 
-[Leandro Magnani](https://www.youtube.com/channel/UCecw1_o_TbO1Li_n4hZC1Kw) | Trata de vários assuntos de TI e principalmente sobre a arquitetura de sistemas.
+[Leandro Magnani](https://www.youtube.com/channel/UCecw1_o_TbO1Li_n4hZC1Kw) | Trata de vários assuntos de TI e principalmente sobre arquitetura/projeto/design de sistemas.
 [Martin Fowler](https://martinfowler.com/) | Fala basicamente sobre arquitetura/projeto/design de software corporativo. Trabalho para o ThoughtWorks, uma empresa de consultoria e entrega de software.
 
 > **Livros**
